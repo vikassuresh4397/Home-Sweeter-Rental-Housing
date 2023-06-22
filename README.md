@@ -1,8 +1,6 @@
 ## Home Sweeter
 
-### Deployed Link :-
-
-https://homesweeter.netlify.app/
+### Deployed Link url :- https://homesweeter.netlify.app/
 
 ### Description :-
 Home Sweeter is an e-commerce platform which acts as a one stop solution to buy, sell or rent properties with ease.
